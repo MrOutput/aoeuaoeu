@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "aoeuaoeu",
+  "avatar": "eGmibJesmZF5aHiyy",
+  "preferredColor": "green",
+  "language": "javascript.node",
+  "game": "table-tennis",
+  "run": "node main.js"
+}
